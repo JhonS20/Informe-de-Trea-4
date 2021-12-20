@@ -28,6 +28,16 @@ CAPITULO 9
 ![image](https://user-images.githubusercontent.com/93899658/146818103-29b3ff84-6718-4a8a-9d46-c3e30e7dde48.png)
 ![image](https://user-images.githubusercontent.com/93899658/146818137-af198916-e87f-4b06-bf67-69d8979cd5e0.png)
 
+37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura7-62(a).
+(a) ¿Qué intervalo se deberá utilizar?
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+![image](https://user-images.githubusercontent.com/93899658/146818554-df994bb0-3c64-4a8f-aab4-39c0d098cd41.png)
+
+
+![image](https://user-images.githubusercontent.com/93899658/146818536-c39aad33-cbb0-47b4-aab8-6488904a856c.png)
+
+![image](https://user-images.githubusercontent.com/93899658/146818581-f520e0c1-a166-4b4b-9bc0-770f9249a366.png)
 
 
 CAPITULO 8

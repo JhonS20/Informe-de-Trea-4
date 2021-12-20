@@ -14,6 +14,14 @@ CAPITULO 8
 
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kA. Conviértala en una fuente de voltaje equivalente
 ![image](https://user-images.githubusercontent.com/93899658/146815942-e6e50303-f1a1-47d3-abf3-f443375d2f91.png)
+9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+![image](https://user-images.githubusercontent.com/93899658/146816124-d0cfb1f0-6326-413b-be28-f2845095505d.png)
+------------
+13. Determine el voltaje del punto A al punto B en la figura 8-73
+![image](https://user-images.githubusercontent.com/93899658/146816233-36ced5bc-e586-488d-a1cd-82f53afe1658.png)
+
+
+
 VIDEO
  
 CONCLUSIONES 

@@ -7,6 +7,25 @@ MARCO TEORICO
 
 RESOLUCION DE EERCICIOS 
 CAPITULO 9
+25. Un divisor de voltaje está compuesto por dos resistores de 56 kA y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1? ¿0 MA a la salida?
+![image](https://user-images.githubusercontent.com/93899658/146817634-28e2741d-ab93-4e36-818c-b5427ceeb33b.png)
+29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kA conectada entre A y B.
+![image](https://user-images.githubusercontent.com/93899658/146817694-8c2a0b82-4b47-4fdb-99eb-02de7d354ba8.png)
+
+![image](https://user-images.githubusercontent.com/93899658/146817875-81ef8178-3530-43e8-8666-bef7309d093f.png)
+
+33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
+(a) Encuentre VG y VS 
+(b) Determine I1, I2, ID, e IS 
+(c) Encuentre VDS y VDG
+
+![image](https://user-images.githubusercontent.com/93899658/146817950-c51e7b9c-2dda-4418-aebb-1c190d5b8602.png)
+
+![image](https://user-images.githubusercontent.com/93899658/146818071-d21aeb15-804e-40bd-bf16-dce09b51d302.png)
+![image](https://user-images.githubusercontent.com/93899658/146818103-29b3ff84-6718-4a8a-9d46-c3e30e7dde48.png)
+![image](https://user-images.githubusercontent.com/93899658/146818137-af198916-e87f-4b06-bf67-69d8979cd5e0.png)
+
+
 
 CAPITULO 8
 1) Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 Ω . Conviértala en una fuente de corriente equivalente

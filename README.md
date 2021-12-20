@@ -39,6 +39,31 @@ CAPITULO 9
 
 ![image](https://user-images.githubusercontent.com/93899658/146818581-f520e0c1-a166-4b4b-9bc0-770f9249a366.png)
 
+41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+
+![image](https://user-images.githubusercontent.com/93899658/146818692-6f1be613-738a-4ebc-9b67-9ab70a4dc8cc.png)
+
+---------
+
+45. Repita el problema 44 para las siguientes condiciones
+(a) SW3 y SW4 conectados a _12 V, SW1 y SW2 a tierra
+(b) SW3 y SW1 conectados a _12 V, SW2 y SW4 a tierra
+(c) Todos los interruptores conectados a _12 V
+
+![image](https://user-images.githubusercontent.com/93899658/146818767-f77e7614-a2b8-42d8-aa78-bc9ca003e684.png)
+
+---------
+
+49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+![image](https://user-images.githubusercontent.com/93899658/146818806-fe83ff3e-e25e-4dab-8019-ab40e893df4d.png)
+---------
+
+53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+
+![image](https://user-images.githubusercontent.com/93899658/146818838-5a71aa79-bba3-4de3-910e-e27f525bc3c3.png)
+---------
+
 
 CAPITULO 8
 1) Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 Ω . Conviértala en una fuente de corriente equivalente

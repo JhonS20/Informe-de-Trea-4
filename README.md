@@ -18,8 +18,11 @@ CAPITULO 8
 ![image](https://user-images.githubusercontent.com/93899658/146816124-d0cfb1f0-6326-413b-be28-f2845095505d.png)
 ------------
 13. Determine el voltaje del punto A al punto B en la figura 8-73
+
 ![image](https://user-images.githubusercontent.com/93899658/146816233-36ced5bc-e586-488d-a1cd-82f53afe1658.png)
 
+![image](https://user-images.githubusercontent.com/93899658/146816454-a94ccd40-a564-4ef2-b242-0c4ff07783c2.png)
+![image](https://user-images.githubusercontent.com/93899658/146816476-8fb0ecc8-1e58-4c7b-b00e-9fce8d3f1aef.png)
 
 
 VIDEO

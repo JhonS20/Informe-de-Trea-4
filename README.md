@@ -114,6 +114,7 @@ CAPITULO 8
 ![image](https://user-images.githubusercontent.com/93899658/146816750-b87c25be-6394-4601-81f5-3f670ffc627a.png)
 ![image](https://user-images.githubusercontent.com/93899658/146816761-41896513-5b14-4de6-8712-6e600a318bfa.png)
 
+![Deber capitulo 8_Página_1](https://user-images.githubusercontent.com/93209004/147691084-927757a4-550a-42ae-a20f-f59a686ea649.jpg)
 ![Deber capitulo 8_Página_2](https://user-images.githubusercontent.com/93209004/147688498-d0162dfb-3fdc-4e7c-a8f6-fb8fca9ab412.jpg)
 ![Deber capitulo 8_Página_3](https://user-images.githubusercontent.com/93209004/147688500-270add99-2b46-416d-b09f-3f3db7292a3a.jpg)
 ![Deber capitulo 8_Página_4](https://user-images.githubusercontent.com/93209004/147688502-cf5c3d7e-556e-48d9-9060-f0bab0041bfd.jpg)

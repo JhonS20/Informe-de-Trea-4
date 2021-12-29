@@ -3,11 +3,31 @@ OBJETIVO GENERAL
 
 OBJETIVO ESPECIFICO
 
+•	Comprender los conceptos de conversiones de fuentes y aplicar el Teorema de Superposición, Teorema de Norton, Teorema de Thévenin para simplificar la resolución de circuitos complejos. 
+
+•	Analizar y determinar las diferencias y semejanzas entre los teoremas propuestos.
+
+
 MARCO TEORICO
+
+CAPITULO 8
+
+![Mapa conceptual](https://user-images.githubusercontent.com/93209004/147688659-43ac7deb-68f4-4f48-b4f2-7344dae606ec.png)
 
 RESOLUCION DE EERCICIOS 
 
-CAPITULO 9
+CAPITULO 7
+
+![Deber capitulo 7_Página_01](https://user-images.githubusercontent.com/93209004/147688332-9a54a6d6-8776-4345-843e-bb91319bb118.jpg)
+![Deber capitulo 7_Página_02](https://user-images.githubusercontent.com/93209004/147688335-4cf4bc21-90b3-45dc-b2f6-79b55d588026.jpg)
+![Deber capitulo 7_Página_03](https://user-images.githubusercontent.com/93209004/147688336-06cd7140-5a40-4b3f-87b4-87270a59d5c6.jpg)
+![Deber capitulo 7_Página_04](https://user-images.githubusercontent.com/93209004/147688352-4b912468-15af-4fa1-825d-d12d510f6228.jpg)
+![Deber capitulo 7_Página_05](https://user-images.githubusercontent.com/93209004/147688355-915971db-25cc-4278-8e5d-7c87bd60e0d1.jpg)
+![Deber capitulo 7_Página_06](https://user-images.githubusercontent.com/93209004/147688357-720d9c31-ae68-45fd-b3f5-44e982bc34c6.jpg)
+![Deber capitulo 7_Página_07](https://user-images.githubusercontent.com/93209004/147688358-1a30d244-ffd4-4919-a154-0c7aaf423187.jpg)
+![Deber capitulo 7_Página_08](https://user-images.githubusercontent.com/93209004/147688359-dab01d3f-f2d5-49ee-bff0-716a3749dcae.jpg)
+![Deber capitulo 7_Página_09](https://user-images.githubusercontent.com/93209004/147688360-c63188b0-146a-466f-9473-958aa04f626e.jpg)
+![Deber capitulo 7_Página_10](https://user-images.githubusercontent.com/93209004/147688375-6d9e9439-0b1b-4bad-82a5-e72549a7f369.jpg)
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kA y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1? ¿0 MA a la salida?
 ![image](https://user-images.githubusercontent.com/93899658/146817634-28e2741d-ab93-4e36-818c-b5427ceeb33b.png)
@@ -94,14 +114,24 @@ CAPITULO 8
 ![image](https://user-images.githubusercontent.com/93899658/146816750-b87c25be-6394-4601-81f5-3f670ffc627a.png)
 ![image](https://user-images.githubusercontent.com/93899658/146816761-41896513-5b14-4de6-8712-6e600a318bfa.png)
 
-
-
-
+![Deber capitulo 8_Página_2](https://user-images.githubusercontent.com/93209004/147688498-d0162dfb-3fdc-4e7c-a8f6-fb8fca9ab412.jpg)
+![Deber capitulo 8_Página_3](https://user-images.githubusercontent.com/93209004/147688500-270add99-2b46-416d-b09f-3f3db7292a3a.jpg)
+![Deber capitulo 8_Página_4](https://user-images.githubusercontent.com/93209004/147688502-cf5c3d7e-556e-48d9-9060-f0bab0041bfd.jpg)
+![Deber capitulo 8_Página_5](https://user-images.githubusercontent.com/93209004/147688504-96f4e2c3-05c2-423f-b100-4ee1a00e5e98.jpg)
+![Deber capitulo 8_Página_6](https://user-images.githubusercontent.com/93209004/147688505-2ccdb447-6831-4ad7-8f2f-487b57925876.jpg)
+![Deber capitulo 8_Página_7](https://user-images.githubusercontent.com/93209004/147688506-02784205-884c-4582-8256-5aceb3414ec3.jpg)
+![Deber capitulo 8_Página_8](https://user-images.githubusercontent.com/93209004/147688507-36636183-5643-41c6-9171-96935948e167.jpg)
 
 
 VIDEO
  
 CONCLUSIONES 
 
+
+•	Como conclusión tenemos que los teoremas de Thévenin y Norton son similares y ambos sirven para simplificar circuitos con la diferencia de que Thévenin se basa en fuentes de tensión mientras que Norton se basa en fuentes de corriente y el teorema de superposición se basa en fuentes de voltaje y corriente.
+
 BOBLIOGRAFIAS 
 
+Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
+
+MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/

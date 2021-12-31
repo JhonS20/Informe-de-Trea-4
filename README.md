@@ -46,6 +46,14 @@ Demostrando
 
 ![image](https://user-images.githubusercontent.com/93899658/146817875-81ef8178-3530-43e8-8666-bef7309d093f.png)
 
+31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10V, y las salidas requeridas deben ser de 5 y 2.5V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 KΩ a cada toma, una a la vez.
+
+
+
+![image](https://user-images.githubusercontent.com/93899658/147839732-7c5dd011-e85e-4fae-a3b2-cf32a4528914.png)
+![image](https://user-images.githubusercontent.com/93899658/147839750-ce4a4581-f9e8-4584-8465-8281d0645999.png)
+
+
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
 (a) Encuentre VG y VS 
 (b) Determine I1, I2, ID, e IS 

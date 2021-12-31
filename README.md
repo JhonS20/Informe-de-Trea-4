@@ -32,6 +32,15 @@ CAPITULO 7
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kA y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1? ¿0 MA a la salida?
 ![image](https://user-images.githubusercontent.com/93899658/146817634-28e2741d-ab93-4e36-818c-b5427ceeb33b.png)
 
+27. ¿Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+![image](https://user-images.githubusercontent.com/93899658/147838392-f2841e6e-fffe-4fa5-a001-cce4409a3383.png)
+
+
+Cómo 47kΩ >> 10 kΩ, entonces 47 kΩ provocara una disminución mas pequeña en el voltaje de salida.
+Demostrando 
+
+
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kA conectada entre A y B.
 ![image](https://user-images.githubusercontent.com/93899658/146817694-8c2a0b82-4b47-4fdb-99eb-02de7d354ba8.png)
 

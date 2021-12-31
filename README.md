@@ -52,6 +52,8 @@ Demostrando
 
 ![image](https://user-images.githubusercontent.com/93899658/147839732-7c5dd011-e85e-4fae-a3b2-cf32a4528914.png)
 ![image](https://user-images.githubusercontent.com/93899658/147839750-ce4a4581-f9e8-4584-8465-8281d0645999.png)
+![image](https://user-images.githubusercontent.com/93899658/147839761-8bc0afb7-a9cc-4aa9-a949-30cc610f84d6.png)
+
 
 
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.

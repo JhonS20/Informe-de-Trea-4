@@ -6,7 +6,7 @@ OBJETIVO ESPECIFICO
 •	Comprender los conceptos de conversiones de fuentes y aplicar el Teorema de Superposición, Teorema de Norton, Teorema de Thévenin para simplificar la resolución de circuitos complejos. 
 
 •	Analizar y determinar las diferencias y semejanzas entre los teoremas propuestos.
-
+* Desarrollar habilidades de calculo y retroalimentar con toeria anteriormente expuesta.
 
 MARCO TEORICO
 

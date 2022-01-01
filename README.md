@@ -29,81 +29,98 @@ CAPITULO 7
 ![Deber capitulo 7_Página_09](https://user-images.githubusercontent.com/93209004/147688360-c63188b0-146a-466f-9473-958aa04f626e.jpg)
 ![Deber capitulo 7_Página_10](https://user-images.githubusercontent.com/93209004/147688375-6d9e9439-0b1b-4bad-82a5-e72549a7f369.jpg)
 
+
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kA y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1? ¿0 MA a la salida?
-![image](https://user-images.githubusercontent.com/93899658/146817634-28e2741d-ab93-4e36-818c-b5427ceeb33b.png)
+
+![image](https://user-images.githubusercontent.com/93899658/147854472-eaa37ea3-2dbc-4dee-ae74-a2424ea982b3.png)
 
 27. ¿Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
 
-![image](https://user-images.githubusercontent.com/93899658/147838392-f2841e6e-fffe-4fa5-a001-cce4409a3383.png)
-
-
-Cómo 47kΩ >> 10 kΩ, entonces 47 kΩ provocara una disminución mas pequeña en el voltaje de salida.
-Demostrando 
-
+![image](https://user-images.githubusercontent.com/93899658/147854477-b3403ee0-9d48-42b7-874c-260d04b78723.png)
+![image](https://user-images.githubusercontent.com/93899658/147854480-cd20c7fc-1017-48e5-927f-f0f907724aaf.png)
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kA conectada entre A y B.
-![image](https://user-images.githubusercontent.com/93899658/146817694-8c2a0b82-4b47-4fdb-99eb-02de7d354ba8.png)
 
-![image](https://user-images.githubusercontent.com/93899658/146817875-81ef8178-3530-43e8-8666-bef7309d093f.png)
+![image](https://user-images.githubusercontent.com/93899658/147854481-13fc231c-2dd7-42c9-8fac-3f57d8c50ba8.png)
+![image](https://user-images.githubusercontent.com/93899658/147854486-0f3fe2b8-fce6-46d9-bb8b-ccdba5734c0c.png)
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10V, y las salidas requeridas deben ser de 5 y 2.5V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 KΩ a cada toma, una a la vez.
 
-
-![image](https://user-images.githubusercontent.com/93899658/147839750-ce4a4581-f9e8-4584-8465-8281d0645999.png)
-
-
+![image](https://user-images.githubusercontent.com/93899658/147854490-84f87e7b-997f-4a42-9d53-2fedab03e979.png)
+![image](https://user-images.githubusercontent.com/93899658/147854531-9a8ff3c7-e15e-47a6-9d7f-2b06e798ff80.png)
+![image](https://user-images.githubusercontent.com/93899658/147854537-7cf5a429-7dac-48a1-95ba-013fcd5d4ce1.png)
 
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
-(a) Encuentre VG y VS 
-(b) Determine I1, I2, ID, e IS 
-(c) Encuentre VDS y VDG
 
-![image](https://user-images.githubusercontent.com/93899658/146817950-c51e7b9c-2dda-4418-aebb-1c190d5b8602.png)
+![image](https://user-images.githubusercontent.com/93899658/147854551-4379d1c5-d19c-4a04-8a98-b666a1725e9b.png)
+![image](https://user-images.githubusercontent.com/93899658/147854556-aa2db7a4-6dc0-4514-8dec-74a0d0aecb67.png)
 
-![image](https://user-images.githubusercontent.com/93899658/146818071-d21aeb15-804e-40bd-bf16-dce09b51d302.png)
-![image](https://user-images.githubusercontent.com/93899658/146818103-29b3ff84-6718-4a8a-9d46-c3e30e7dde48.png)
-![image](https://user-images.githubusercontent.com/93899658/146818137-af198916-e87f-4b06-bf67-69d8979cd5e0.png)
+![image](https://user-images.githubusercontent.com/93899658/147854560-7939b669-c319-43b9-b253-9c410c3a4ac4.png)
 
-
+SECCIÓN 7-4
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+(a) 1 V
+(b) 10 V
+(c) 100 V
+(d) 1000 V
 
------------
+Dado que el voltímetro con mayor intervalo de voltaje es el de 1000V, esto implica que su resistencia interna RL será mucho mayor en comparación a los de (a), (b) y (c). 
+Por lo tanto a  mayor resistencia interna puede evitar el efecto de carga del circuito.}
+RESPUESTA LITERAL b)
+
 
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura7-62(a).
 (a) ¿Qué intervalo se deberá utilizar?
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
-![image](https://user-images.githubusercontent.com/93899658/146818554-df994bb0-3c64-4a8f-aab4-39c0d098cd41.png)
+![image](https://user-images.githubusercontent.com/93899658/147854585-a1cd8aa4-cb3d-43e8-bcdd-87ed3cd6fdc4.png)
+![image](https://user-images.githubusercontent.com/93899658/147854589-da19cae8-2bb4-4be9-9cf1-f9166896863c.png)
 
+SECCION 7-5 REDES ESCALERA
+39. Para el circuito mostrado en la figura 7-77, calcule:
+(a) La resistencia total entre las terminales de la fuente 
+(b) La corriente total suministrada por la fuente
+(c) La corriente a través del resistor de 910 Ω
+(d) El voltaje desde el punto A hasta el punto B
 
-![image](https://user-images.githubusercontent.com/93899658/146818536-c39aad33-cbb0-47b4-aab8-6488904a856c.png)
-
-![image](https://user-images.githubusercontent.com/93899658/146818581-f520e0c1-a166-4b4b-9bc0-770f9249a366.png)
+![image](https://user-images.githubusercontent.com/93899658/147854629-fd9a5279-f2cd-4619-bfd3-35910e9a92c1.png)
+![image](https://user-images.githubusercontent.com/93899658/147854637-c3ac0ec7-f328-4ed0-8594-1500d255dc9b.png)
+![image](https://user-images.githubusercontent.com/93899658/147854655-7d1064fc-d081-4f69-b555-54421d5affb5.png)
+![image](https://user-images.githubusercontent.com/93899658/147854659-81d4f1fe-4f33-40c9-a9b9-64f8fedfc90c.png)
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
-![image](https://user-images.githubusercontent.com/93899658/146818692-6f1be613-738a-4ebc-9b67-9ab70a4dc8cc.png)
+![image](https://user-images.githubusercontent.com/93899658/147854668-f22a2e40-8d38-4538-9506-d7e0931f3f6b.png)
+![image](https://user-images.githubusercontent.com/93899658/147854672-0fd714bd-0139-48bc-a5ef-b47a98bb05b9.png)
 
----------
+43. Determine IT y VSALIDA en la figura 7-80.
+
+![image](https://user-images.githubusercontent.com/93899658/147854700-d34d3783-b43f-4e7b-b2e1-cc7650ca4cf8.png)
 
 45. Repita el problema 44 para las siguientes condiciones
 (a) SW3 y SW4 conectados a _12 V, SW1 y SW2 a tierra
 (b) SW3 y SW1 conectados a _12 V, SW2 y SW4 a tierra
 (c) Todos los interruptores conectados a _12 V
 
-![image](https://user-images.githubusercontent.com/93899658/146818767-f77e7614-a2b8-42d8-aa78-bc9ca003e684.png)
+![image](https://user-images.githubusercontent.com/93899658/147854714-bb3b2670-f0ce-4e04-b8ad-909b910a876c.png)
 
----------
-
+SECCION 7-7 LOCALIZANCION DE FALLAS
 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
-![image](https://user-images.githubusercontent.com/93899658/146818806-fe83ff3e-e25e-4dab-8019-ab40e893df4d.png)
----------
+![image](https://user-images.githubusercontent.com/93899658/147854720-c84b3419-9256-4a48-b9f6-f17edc063237.png)
+![image](https://user-images.githubusercontent.com/93899658/147854726-1a43c93b-1149-487d-9294-6cd937ffa291.png)
+
+51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+
+![image](https://user-images.githubusercontent.com/93899658/147854739-dbe54806-edf0-45a6-88e3-493716c1a7ad.png)
 
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
-![image](https://user-images.githubusercontent.com/93899658/146818838-5a71aa79-bba3-4de3-910e-e27f525bc3c3.png)
----------
+![image](https://user-images.githubusercontent.com/93899658/147854748-34528445-7328-494c-8f6c-46a871e6c3c8.png)
+![image](https://user-images.githubusercontent.com/93899658/147854759-8935ea56-869e-411b-aa99-442456266ffa.png)
+
+
+
 
 
 CAPITULO 8

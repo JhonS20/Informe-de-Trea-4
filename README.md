@@ -49,10 +49,7 @@ Demostrando
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10V, y las salidas requeridas deben ser de 5 y 2.5V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 KΩ a cada toma, una a la vez.
 
 
-
-![image](https://user-images.githubusercontent.com/93899658/147839732-7c5dd011-e85e-4fae-a3b2-cf32a4528914.png)
 ![image](https://user-images.githubusercontent.com/93899658/147839750-ce4a4581-f9e8-4584-8465-8281d0645999.png)
-![image](https://user-images.githubusercontent.com/93899658/147839761-8bc0afb7-a9cc-4aa9-a949-30cc610f84d6.png)
 
 
 
@@ -66,6 +63,11 @@ Demostrando
 ![image](https://user-images.githubusercontent.com/93899658/146818071-d21aeb15-804e-40bd-bf16-dce09b51d302.png)
 ![image](https://user-images.githubusercontent.com/93899658/146818103-29b3ff84-6718-4a8a-9d46-c3e30e7dde48.png)
 ![image](https://user-images.githubusercontent.com/93899658/146818137-af198916-e87f-4b06-bf67-69d8979cd5e0.png)
+
+
+35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+
+-----------
 
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura7-62(a).
 (a) ¿Qué intervalo se deberá utilizar?

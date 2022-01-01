@@ -10,6 +10,11 @@ OBJETIVO ESPECIFICO
 
 MARCO TEORICO
 
+CAPITULO 7
+
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93899658/147857437-fee03655-ae93-4827-ade7-b82038a12d7f.png)
+
+
 CAPITULO 8
 
 ![Mapa conceptual](https://user-images.githubusercontent.com/93209004/147688659-43ac7deb-68f4-4f48-b4f2-7344dae606ec.png)

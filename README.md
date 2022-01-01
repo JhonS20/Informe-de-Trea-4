@@ -58,6 +58,7 @@ CAPITULO 7
 ![image](https://user-images.githubusercontent.com/93899658/147854560-7939b669-c319-43b9-b253-9c410c3a4ac4.png)
 
 SECCIÓN 7-4
+
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
 (a) 1 V
 (b) 10 V
@@ -77,6 +78,7 @@ RESPUESTA LITERAL b)
 ![image](https://user-images.githubusercontent.com/93899658/147854589-da19cae8-2bb4-4be9-9cf1-f9166896863c.png)
 
 SECCION 7-5 REDES ESCALERA
+
 39. Para el circuito mostrado en la figura 7-77, calcule:
 (a) La resistencia total entre las terminales de la fuente 
 (b) La corriente total suministrada por la fuente
@@ -105,6 +107,7 @@ SECCION 7-5 REDES ESCALERA
 ![image](https://user-images.githubusercontent.com/93899658/147854714-bb3b2670-f0ce-4e04-b8ad-909b910a876c.png)
 
 SECCION 7-7 LOCALIZANCION DE FALLAS
+
 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
 ![image](https://user-images.githubusercontent.com/93899658/147854720-c84b3419-9256-4a48-b9f6-f17edc063237.png)

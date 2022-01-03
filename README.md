@@ -133,10 +133,20 @@ SECCION 7-7 LOCALIZANCION DE FALLAS
 
 CAPITULO 8
 1) Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 Ω . Conviértala en una fuente de corriente equivalente
-![image](https://user-images.githubusercontent.com/93899658/146815599-6038a0a3-781c-4b74-8f67-03fd314497df.png)
+
+
+![image](https://user-images.githubusercontent.com/93899658/147987881-63628aad-9b33-429f-a45c-5a5399dc95b1.png)
+
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A	 a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+![image](https://user-images.githubusercontent.com/93899658/147987922-3427528f-05ce-454c-9665-d556bcdd9215.png)
+
 
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kA. Conviértala en una fuente de voltaje equivalente
-![image](https://user-images.githubusercontent.com/93899658/146815942-e6e50303-f1a1-47d3-abf3-f443375d2f91.png)
+
+
+![image](https://user-images.githubusercontent.com/93899658/147987952-2aaac567-a8c1-4171-8f8e-aebab9463cfe.png)
+
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 ![image](https://user-images.githubusercontent.com/93899658/146816124-d0cfb1f0-6326-413b-be28-f2845095505d.png)

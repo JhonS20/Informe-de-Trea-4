@@ -147,6 +147,14 @@ CAPITULO 8
 
 ![image](https://user-images.githubusercontent.com/93899658/147987952-2aaac567-a8c1-4171-8f8e-aebab9463cfe.png)
 
+SECCIÓN 8–4 El teorema de superposición
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/93899658/147993225-971e3d2e-9649-4635-973e-78bd3e3428cc.png)
+
+![image](https://user-images.githubusercontent.com/93899658/147993282-546e002a-be4e-4ae7-8024-235323774c90.png)
+![image](https://user-images.githubusercontent.com/93899658/147993298-873c5788-6f91-4b62-b287-f7ab4b486480.png)
+
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 ![image](https://user-images.githubusercontent.com/93899658/146816124-d0cfb1f0-6326-413b-be28-f2845095505d.png)

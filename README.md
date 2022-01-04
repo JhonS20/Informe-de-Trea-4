@@ -202,6 +202,8 @@ SECCIÓN 8–4 El teorema de superposición
 
 
 VIDEO
+
+https://youtu.be/0PdWykbMPPg
  
 CONCLUSIONES 
 

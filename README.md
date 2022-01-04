@@ -205,8 +205,12 @@ VIDEO
  
 CONCLUSIONES 
 
+• La importancia de conocer la teoría visto en los anteriores capítulos permitió desarrollar ejercicios de circuitos mucho mas complejos, de igual manera se logro profundizar algunos temas con las aplicaciones existentes para alguno de esos circuitos, como por ejemplo el puente de Wheatstone el cual es una configuración de resistencias en paralelo con los cuales su aplicación esta muy enfocada a los sensores.
+
+• Cuando se colocan cargas resistivas en un circuito en serie ocurre un fenómeno cuando esta carga es mucho mas grande que la resistencia del circuito, es de mucha importancia tener en cuenta esta anomalía ya que en la realidad nos podemos encontrar con casos en los cuales la carga resistiva del voltímetro no es muy grande en comparación a la del circuito que se esta estudiando y esto provoca que haya fallas en las lecturas.
 
 •	Como conclusión tenemos que los teoremas de Thévenin y Norton son similares y ambos sirven para simplificar circuitos con la diferencia de que Thévenin se basa en fuentes de tensión mientras que Norton se basa en fuentes de corriente y el teorema de superposición se basa en fuentes de voltaje y corriente.
+
 
 BOBLIOGRAFIAS 
 

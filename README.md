@@ -132,6 +132,7 @@ SECCION 7-7 LOCALIZANCION DE FALLAS
 
 
 CAPITULO 8
+
 1) Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 Ω . Conviértala en una fuente de corriente equivalente
 
 
@@ -148,6 +149,7 @@ CAPITULO 8
 ![image](https://user-images.githubusercontent.com/93899658/147987952-2aaac567-a8c1-4171-8f8e-aebab9463cfe.png)
 
 SECCIÓN 8–4 El teorema de superposición
+
 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
 
 ![image](https://user-images.githubusercontent.com/93899658/147993225-971e3d2e-9649-4635-973e-78bd3e3428cc.png)
@@ -158,7 +160,11 @@ SECCIÓN 8–4 El teorema de superposición
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 ![image](https://user-images.githubusercontent.com/93899658/146816124-d0cfb1f0-6326-413b-be28-f2845095505d.png)
-------------
+
+![image](https://user-images.githubusercontent.com/93899658/147995951-71ebf493-159c-4d53-97f4-08fae0c05b5a.png)
+![image](https://user-images.githubusercontent.com/93899658/147995987-845f658d-c74b-4d35-b4a9-6fee9f3bbbdb.png)
+
+
 
 13. Determine el voltaje del punto A al punto B en la figura 8-73
 
@@ -166,6 +172,13 @@ SECCIÓN 8–4 El teorema de superposición
 
 ![image](https://user-images.githubusercontent.com/93899658/146816454-a94ccd40-a564-4ef2-b242-0c4ff07783c2.png)
 ![image](https://user-images.githubusercontent.com/93899658/146816476-8fb0ecc8-1e58-4c7b-b00e-9fce8d3f1aef.png)
+
+15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+![image](https://user-images.githubusercontent.com/93899658/147998303-6682801d-5de0-4903-b327-d8093fbc3af5.png)
+![image](https://user-images.githubusercontent.com/93899658/147998330-07939f5b-4a91-45bd-99cd-854ce04142a5.png)
+![image](https://user-images.githubusercontent.com/93899658/147998349-b766c145-5c0f-441c-b259-61f35d1d62cd.png)
+
 
 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
 
